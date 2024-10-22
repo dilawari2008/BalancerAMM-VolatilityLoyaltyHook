@@ -71,6 +71,8 @@ Once the prices over a span of time are captured, the price 1 hour ago (or a sho
 
 The formula for calculating volatility is:
 
+** correction in the below diagram the inner bracket is to be sqaured (^2).
+
 <img width="378" alt="Screenshot 2024-10-21 at 1 58 47 AM" src="https://github.com/user-attachments/assets/02f19b11-0132-400c-a19a-5a3db1834584">
 
 Where:
