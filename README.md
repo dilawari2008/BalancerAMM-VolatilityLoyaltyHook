@@ -10,6 +10,11 @@ The Volatility and Loyalty Hook aims to stimulate trading activity in a newly la
 - [Volatility Percentage Calculation](#volatility-percentage-calculation)
 - [References](#references)
 
+
+**Video Demo**
+https://www.loom.com/share/defa9c16751e401d92daf6d5ed7d6b0d?sid=41fe8600-77b3-41a4-92c2-8c00d06a7bff
+
+
 ## Hook Lifecycle Points
 
 - **onAfterRemoveLiquidity(), onAfterAddLiquidity():**  
@@ -23,9 +28,6 @@ The Volatility and Loyalty Hook aims to stimulate trading activity in a newly la
   Calculates the swap fee based on the pool's volatility and the user's loyalty index.
 
 ![Balancer Hook Diagram](https://github.com/user-attachments/assets/6453b5b8-03ad-4108-bc66-228cc684716f)
-
-** Video Demo **
-https://www.loom.com/share/defa9c16751e401d92daf6d5ed7d6b0d?sid=41fe8600-77b3-41a4-92c2-8c00d06a7bff
 
 ## Swap Fee Calculation
 
